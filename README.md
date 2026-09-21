@@ -22,13 +22,26 @@ The analysis focuses on customer tenure, complaints, cashback amount, order beha
 
 ## Dataset
 
-The project uses the **E-Commerce Customer Churn Analysis and Prediction** dataset.
+The dataset used in this project is the **Ecommerce Customer Churn Analysis and Prediction** dataset by Ankit Verma, obtained from Kaggle.
 
-Dataset file:
+- **Source:** Kaggle
+- **Dataset:** Ecommerce Customer Churn Analysis and Prediction
+- **Author:** Ankit Verma
+- **Rows:** 5,630
+- **Columns:** 20
+- **Target variable:** `Churn`
 
-`E Commerce Dataset.xlsx`
+### Dataset Link
 
-The workbook contains the customer data and a data dictionary.
+https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
+
+The original Excel dataset is also included in this repository at:
+
+`data/E Commerce Dataset.xlsx`
+
+### Dataset License
+
+The Kaggle dataset is listed under the **CC BY-NC-SA 4.0** license. Please refer to the original Kaggle page for the dataset's licensing and attribution terms.
 
 ## Dataset Summary
 
